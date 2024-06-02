@@ -1,5 +1,4 @@
 <?php
-// models/ProductImage.php
 class ProductImage {
     private $pdo;
 

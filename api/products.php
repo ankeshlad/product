@@ -1,5 +1,4 @@
 <?php
-// api/products.php
 require_once '../config/database.php';
 require_once '../models/Product.php';
 require_once '../models/ProductImage.php';

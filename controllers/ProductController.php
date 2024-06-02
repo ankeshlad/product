@@ -1,5 +1,4 @@
 <?php
-// controllers/ProductController.php
 require_once 'models/Product.php';
 require_once 'models/ProductImage.php';
 

@@ -1,5 +1,4 @@
 <?php
-// config/database.php
 $host = 'localhost';
 $db   = 'product_db';
 $user = 'root';

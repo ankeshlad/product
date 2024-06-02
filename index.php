@@ -1,6 +1,5 @@
 <?php
-// public/index.php
-$pdo = require 'config/database.php'; // Initialize PDO object
+$pdo = require 'config/database.php';
 require_once 'controllers/ProductController.php';
 
 $action = isset($_GET['action']) ? $_GET['action'] : 'index';
